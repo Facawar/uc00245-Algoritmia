@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './home.html',
   styleUrl: './home.css'
 })
-export class Home implements OnInit {
+export class aula01 implements OnInit {
 
   varriavelGlobal: string = ""; //vazia
   varriavelGlobal2!: string; //nao startada
